@@ -39,7 +39,7 @@ function handleResultValidation() {
   }
 
   if (!gameState.includes('')) {
-    document.getElementById('result').innerText = 'Game\ is tie!';
+    document.getElementById('result').innerText = 'Lund\ lelo dono!';
     gameActive = false;
     return;
   }
